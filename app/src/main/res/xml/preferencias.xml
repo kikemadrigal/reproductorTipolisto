@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="botonA"
+        android:title="Boton A"
+        android:summary="Pulsa para asgnar el boton A"
+        android:defaultValue="0"/>
+    <EditTextPreference
+        android:key="botonB"
+        android:title="Boton B"
+        android:summary="Pulsa para asgnar el boton B"
+        android:defaultValue="0"/>
+    <EditTextPreference
+        android:key="botonX"
+        android:title="Boton X"
+        android:summary="Pulsa para asgnar el boton X"
+        android:defaultValue="0"/>
+    <EditTextPreference
+        android:key="botonY"
+        android:title="Boton Y"
+        android:summary="Pulsa para asgnar el boton Y"
+        android:defaultValue="0"/>
+
+    <CheckBoxPreference
+        android:key="musica"
+        android:title="Reproducir musica"
+        android:summary="Se puede reproducir musica de fondo"/>
+</PreferenceScreen>
