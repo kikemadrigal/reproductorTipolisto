@@ -5,7 +5,7 @@ playerTL es un gestor de listas de canciones para que puedas escuchar tu música
 playerTL is a song list manager so you can listen to your music ordered and managed by yourself.
 
 <!-- ![Imagen programa](images/program.jpg) -->
-<img src="images/program.jpg" style="display: block;margin-left: auto;  margin-right: auto;  width: 50%" />
+<div><center><img src="images/program.jpg" width="300" /></center></div>
 
 # Requirements / Requisitos
 
